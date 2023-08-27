@@ -5,6 +5,8 @@ This project involves the cleaning of FIFA 21 dataset gotten from Kaggle. The da
 
 This project involves cleaning a FIFA 21 dataset gotten from Kaggle. The dataset contains data about players information and statistics according to the FIFA 21 game. The information contained in this dataset includes but is not limited to Player name, Nationality, Team name and contract, Attacking attributes, defending attributes, Position, Height, Weight, etc.
 
+My thought process and complete step by step process of cleaning this data can be found [on my medium page](https://medium.com/@f.jtundeadedipe/data-cleaning-fifa-21-dataset-a1a1b202810b)
+
 ### The project involved the following steps:
 
 1) The first step was to create a duplicate of the raw data.
